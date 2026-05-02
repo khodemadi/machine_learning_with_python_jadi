@@ -7,3 +7,4 @@ My blog: http://jadi.net/2021/10/machine-learning-with-python-jadi/
 Slides: https://docs.google.com/presentation/d/1GzB4JPRrl7OzPo3Yp6pywZeaj03gSUyxMFfmTHt6nzE/edit?usp=sharing
 
 Note: github does not accept files larger than 100MB. So I truncated the ratings.csv to only 3.9M rows. For the original file, please use the link in the notebook to download the dataset.
+
